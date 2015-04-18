@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from aleacli import connectors, protocols, login, exceptions
-from ops_inventory import inventory, constants
-
 from expects import *
 from hamcrest import *
 from doublex import *
